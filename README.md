@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working on [MineStead](https://github.com/LyamRay/MineStead)!
+🔭 I’m currently working on [BeneluxeSMP](https://github.com/LyamRay/BeneluxeSMP-Core) & [MineStead](https://github.com/LyamRay/MineStead)!
 
 🌱 I’m currently learning **Java** — brewing up some code, one class at a time! ☕
 
