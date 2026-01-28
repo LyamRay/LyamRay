@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working on ![Hexa Studios](https://discord.gg/hexastudios)
+🔭 I’m currently working on [Hexa Studios](https://discord.gg/hexastudios)
 
 🌱 I’m currently learning **Java** — brewing up some code, one class at a time! ☕
 
