@@ -8,6 +8,8 @@
 
 ---
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1025102060305252382?showDisplayName=true&hideDecoration=true&theme=dark)](https://discord.com/users/1025102060305252382)
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hexastudios)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C.svg?logo=paypal&logoColor=white)](https://paypal.me/paypal.me/lyamray)
