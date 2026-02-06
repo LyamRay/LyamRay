@@ -8,8 +8,8 @@
 
 ---
 
-## 🔭 Currently Working On
-[Hexa Studios](https://discord.gg/hexastudios)
+## 🔭 Currently Working On:
+Creating games and digital experiences at [Hexa Studios](https://discord.gg/hexastudios), a studio focused on innovation in Minecraft and beyond.
 
 ## 🌱 Learning
 **Java** — brewing up some code, one class at a time! ☕
