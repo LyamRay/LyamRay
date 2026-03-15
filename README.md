@@ -1,6 +1,6 @@
 <div align="center">
   <h1>💫 Hi, I'm LyamRay!</h1>
-  <p>Ccurious coder & Profesional Gamer ☕ | Java & Discord enthusiast</p>
+  <p>Curious coder & Profesional Gamer ☕ | Java & Discord enthusiast</p>
   <a href="https://discord.com/users/1025102060305252382">
     <a href="https://discord.com/users/1025102060305252382"><img src="https://lanyard.cnrad.dev/api/1025102060305252382?bg=769c97&idleMessage=To%20busy%20thinking%20about%20Hexa%20Studios.." /></a>
   </a>
