@@ -2,14 +2,14 @@
   <h1>💫 Hi, I'm LyamRay!</h1>
   <p>Curious coder & Profesional Gamer ☕ | Java & Discord enthusiast</p>
   <a href="https://discord.com/users/1025102060305252382">
-    <a href="https://discord.com/users/1025102060305252382"><img src="https://lanyard.cnrad.dev/api/1025102060305252382?bg=769c97&idleMessage=To%20busy%20thinking%20about%20Hexa%20Studios.." /></a>
+    <a href="https://discord.com/users/1025102060305252382"><img src="https://lanyard.cnrad.dev/api/1025102060305252382?bg=769c97&idleMessage=To%20busy%20thinking%20with%20other%20stuff.." /></a>
   </a>
 </div>
 
 ---
 
 ## 🔭 Currently Working On:
-Creating games and digital experiences at [Hexa Studios](https://discord.gg/hexastudios), a studio focused on innovation in Minecraft and beyond.
+- Nothing!
 
 ## 🌱 Learning
 **Java** — brewing up some code, one class at a time! ☕
